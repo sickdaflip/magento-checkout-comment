@@ -1,0 +1,8 @@
+app/code/community/MageWare/CheckoutComment app/code/community/MageWare/CheckoutComment
+app/design/adminhtml/default/default/layout/mageware/checkoutcomment.xml    app/design/adminhtml/default/default/layout/mageware/checkoutcomment.xml
+app/design/adminhtml/default/default/template/mageware/checkoutcomment/sales/order/view/info.phtml  app/design/adminhtml/default/default/template/mageware/checkoutcomment/sales/order/view/info.phtml
+app/design/frontend/base/default/layout/mageware/checkoutcomment.xml    app/design/frontend/base/default/layout/mageware/checkoutcomment.xml
+app/design/frontend/base/default/template/mageware/checkoutcomment  app/design/frontend/base/default/template/mageware/checkoutcomment
+app/etc/modules/MageWare_CheckoutComment.xml    app/etc/modules/MageWare_CheckoutComment.xml
+app/locale/en_US/MageWare_CheckoutComment.csv   app/locale/en_US/MageWare_CheckoutComment.csv
+app/locale/de_DE/MageWare_CheckoutComment.csv   app/locale/de_DE/MageWare_CheckoutComment.csv
